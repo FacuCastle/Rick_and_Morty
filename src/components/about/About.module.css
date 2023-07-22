@@ -1,0 +1,23 @@
+.text {
+    text-align: center;
+}
+.image {
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
+.btn {
+    margin-top: 5px;
+    margin-left: 86%;
+    cursor: pointer;
+}
+.h1{
+        text-align: center;
+        color: black;
+        font-weight: bold;
+    
+}
