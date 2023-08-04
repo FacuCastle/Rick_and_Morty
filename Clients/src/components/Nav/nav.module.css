@@ -1,0 +1,19 @@
+.nav {
+    background-color: rgb(72, 61, 139, 0.7);
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    margin-bottom: 20px;
+    margin-top: -5px;
+  }
+  
+  .img {
+    filter: hue-rotate(100deg);
+  }
+.link {
+    text-decoration: none;
+    margin-top: 2%;
+    color: black;
+}
